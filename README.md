@@ -1,5 +1,5 @@
 # Maze-Game
-A maze game with some simple move s
+A maze game with some simple moves
 |action | Commend  |         
 |---|---|   
 | left |  a |
