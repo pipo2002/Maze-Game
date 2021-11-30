@@ -1,4 +1,12 @@
 # Maze-Game
-a,s,w,d
- 
- site  :   https://sakib2005.github.io/Maze-Game/
+A maze game with some simple move s
+|action | Commend  |         
+|---|---|   
+| left |  a |
+| down | s |
+| up | w |
+| right | d |
+
+
+Click here to see the  [demo](https://sakib2005.github.io/Maze-Game/)
+
